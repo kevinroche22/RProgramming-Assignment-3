@@ -2,10 +2,7 @@
 title: "R Programming - Assigment Three"
 author: "Kevin Roche"
 date: "21/06/2021"
-output:
-  prettydoc::html_pretty:
-    theme: architect
-    highlight: github
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
